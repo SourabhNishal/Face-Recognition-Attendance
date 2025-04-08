@@ -15,3 +15,6 @@ Before the development of Face recognition Attendance, attendance collection oft
 
 **Conclusion:**
 In conclusion, Face recognition Attendance presented a significant advancement in attendance management systems. By integrating Python, OpenCV, TensorFlow, and Keras, along with CNN architecture, the project provided a reliable, efficient, and scalable solution for real-time attendance collection, suitable for diverse applications ranging from educational institutions to event management.
+
+
+                                                                                                                                                                                            sourabhnishal1@gmail.com
